@@ -1,8 +1,8 @@
 # Forecasting-Air-Passengers
 
-• Airline Passengers' prediction problem
+• The problem: Airline Passengers' prediction
 
-• The task is to predict the number of international airline passengers
+• The task: to predict the number of international airline passengers based on the previous given data
 
 ### Dataset
 
