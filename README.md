@@ -10,4 +10,4 @@ Download the dataset from: https://www.kaggle.com/rakannimer/air-passengers
 
 ### Reference
 
-I learnt this project from [Applied Deep Learning](https://maharatech.gov.eg/course/view.php?id=738)
+I learned this project from [Applied Deep Learning](https://maharatech.gov.eg/course/view.php?id=738) and [medium](https://bobrupakroy.medium.com/lstms-for-regression-cc9b6677697f)
